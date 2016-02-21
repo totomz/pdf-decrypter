@@ -2,7 +2,7 @@
 A simple utility that removes any protection to pdf that can be opened without password.
 
 # How to run
-1. `git clone https://github.com/totomz/pdf-decrypter` 
+1. `git clone https://github.com/totomz/pdf-decrypter; cd pdf-decrypter` 
 2. Put your pdf in `input/` folder
 3. Execute `java -jar pdf-decrypter.jar`
 
